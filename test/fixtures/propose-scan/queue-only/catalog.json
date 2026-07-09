@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "queued2021b",
+      "title": "Queued Paper",
+      "authors": [
+        "B"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "url": "https://example.com/queued",
+      "zotero": "",
+      "depth": "abstract",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces the queued paper.",
+      "path": "papers/queued2021b.md"
+    },
+    {
+      "citekey": "settled2020a",
+      "title": "Settled Paper",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/settled",
+      "zotero": "",
+      "depth": "sections",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-02",
+      "contribution": "Introduces the settled paper.",
+      "path": "papers/settled2020a.md"
+    }
+  ]
+}

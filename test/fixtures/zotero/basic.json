@@ -1,0 +1,37 @@
+{
+  "collections": [{ "key": "COLLKEY1", "data": { "name": "to-note" } }],
+  "items": [
+    {
+      "key": "ITEM0001",
+      "data": {
+        "itemType": "journalArticle",
+        "title": "A New Paper",
+        "creators": [{ "firstName": "Ada", "lastName": "Lovelace" }],
+        "date": "2024-03-01",
+        "DOI": "10.1000/newpaper",
+        "url": "https://example.com/new-paper",
+        "abstractNote": "An abstract about a new paper.",
+        "publicationTitle": "Journal of Examples"
+      }
+    },
+    {
+      "key": "ITEM0002",
+      "data": {
+        "itemType": "journalArticle",
+        "title": "No Citekey Yet",
+        "creators": [],
+        "date": "2024",
+        "DOI": "",
+        "url": "",
+        "abstractNote": ""
+      }
+    },
+    {
+      "key": "ITEM0003",
+      "data": { "itemType": "attachment", "title": "PDF attachment" }
+    }
+  ],
+  "citekeys": {
+    "ITEM0001": "lovelace2024new"
+  }
+}

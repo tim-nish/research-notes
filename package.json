@@ -1,0 +1,11 @@
+{
+  "name": "research-notes",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

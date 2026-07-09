@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "drifted2020a",
+      "title": "Drifted Paper",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/drifted",
+      "zotero": "",
+      "depth": "metadata",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces the drifted paper.",
+      "path": "papers/drifted2020a.md"
+    },
+    {
+      "citekey": "settled2021b",
+      "title": "Settled Paper",
+      "authors": [
+        "B"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "url": "https://example.com/settled",
+      "zotero": "",
+      "depth": "sections",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-02",
+      "contribution": "Introduces the settled paper.",
+      "path": "papers/settled2021b.md"
+    }
+  ]
+}

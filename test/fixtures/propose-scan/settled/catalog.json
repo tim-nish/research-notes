@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "onea2020x",
+      "title": "One A",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/onea",
+      "zotero": "",
+      "depth": "sections",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-02",
+      "contribution": "Introduces One A.",
+      "path": "papers/onea2020x.md"
+    },
+    {
+      "citekey": "twob2021y",
+      "title": "Two B",
+      "authors": [
+        "B"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "url": "https://example.com/twob",
+      "zotero": "",
+      "depth": "abstract",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces Two B.",
+      "path": "papers/twob2021y.md"
+    }
+  ]
+}

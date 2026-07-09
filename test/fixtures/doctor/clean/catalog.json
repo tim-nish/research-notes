@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "alpha2020one",
+      "title": "Alpha One",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/alpha",
+      "zotero": "",
+      "depth": "sections",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-02",
+      "contribution": "Introduces Alpha.",
+      "path": "papers/alpha2020one.md"
+    },
+    {
+      "citekey": "beta2021two",
+      "title": "Beta Two",
+      "authors": [
+        "B"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "url": "https://example.com/beta",
+      "zotero": "",
+      "depth": "metadata",
+      "topics": [],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces Beta.",
+      "path": "papers/beta2021two.md"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "orphan2022c",
+      "title": "Orphan Paper",
+      "authors": [
+        "C"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "url": "https://example.com/orphan",
+      "zotero": "",
+      "depth": "metadata",
+      "topics": [],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces the orphan paper.",
+      "path": "papers/orphan2022c.md"
+    },
+    {
+      "citekey": "paperone2020a",
+      "title": "Paper One",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/paperone",
+      "zotero": "",
+      "depth": "sections",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-02",
+      "contribution": "Introduces Paper One.",
+      "path": "papers/paperone2020a.md"
+    },
+    {
+      "citekey": "papertwo2021b",
+      "title": "Paper Two",
+      "authors": [
+        "B"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "url": "https://example.com/papertwo",
+      "zotero": "",
+      "depth": "abstract",
+      "topics": [
+        "demo-topic"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces Paper Two.",
+      "path": "papers/papertwo2021b.md"
+    }
+  ]
+}

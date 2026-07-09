@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "onlypaper2020a",
+      "title": "Only Paper",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/onlypaper",
+      "zotero": "",
+      "depth": "metadata",
+      "topics": [],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces the only paper.",
+      "path": "papers/onlypaper2020a.md"
+    }
+  ]
+}

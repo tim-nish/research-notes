@@ -1,0 +1,5 @@
+.obsidian/workspace*
+.obsidian/cache
+.sync/
+node_modules/
+*.stackdump

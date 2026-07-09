@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "generated": "2026-01-01T00:00:00.000Z",
+  "papers": [
+    {
+      "citekey": "queueda2021y",
+      "title": "Queued A",
+      "authors": [
+        "B"
+      ],
+      "year": 2021,
+      "venue": "arXiv",
+      "url": "https://example.com/queueda",
+      "zotero": "",
+      "depth": "abstract",
+      "topics": [
+        "topic-a"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces Queued A.",
+      "path": "papers/queueda2021y.md"
+    },
+    {
+      "citekey": "queuedb2022z",
+      "title": "Queued B",
+      "authors": [
+        "C"
+      ],
+      "year": 2022,
+      "venue": "arXiv",
+      "url": "https://example.com/queuedb",
+      "zotero": "",
+      "depth": "abstract",
+      "topics": [
+        "topic-b"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces Queued B.",
+      "path": "papers/queuedb2022z.md"
+    },
+    {
+      "citekey": "settleda2020x",
+      "title": "Settled A",
+      "authors": [
+        "A"
+      ],
+      "year": 2020,
+      "venue": "arXiv",
+      "url": "https://example.com/settleda",
+      "zotero": "",
+      "depth": "sections",
+      "topics": [
+        "topic-a"
+      ],
+      "added": "2026-01-01",
+      "updated": "2026-01-02",
+      "contribution": "Introduces Settled A.",
+      "path": "papers/settleda2020x.md"
+    },
+    {
+      "citekey": "trueorphan2023w",
+      "title": "True Orphan",
+      "authors": [
+        "D"
+      ],
+      "year": 2023,
+      "venue": "arXiv",
+      "url": "https://example.com/trueorphan",
+      "zotero": "",
+      "depth": "metadata",
+      "topics": [],
+      "added": "2026-01-01",
+      "updated": "2026-01-01",
+      "contribution": "Introduces the true orphan.",
+      "path": "papers/trueorphan2023w.md"
+    }
+  ]
+}
